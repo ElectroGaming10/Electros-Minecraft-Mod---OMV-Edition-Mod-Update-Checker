@@ -1,0 +1,10 @@
+{
+  "homepage": "Electro's Web Center: https://sites.google.com/view/electrosapps/electros-addons/minecraft-mods-forge OR For Mods 1.4.10+: CurseForge: https://www.curseforge.com/minecraft/mc-mods/electros-powercraft/files/all Modrinth: https://modrinth.com/mod/electros-powercraft/",
+  "1.15.2": {
+    "1.0": ""
+  },
+  "promos": {
+    "1.15.2-latest": "1.0",
+    "1.15.2-recommended": "1.0"
+  }
+}
