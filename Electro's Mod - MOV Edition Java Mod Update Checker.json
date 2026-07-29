@@ -1,14 +1,16 @@
 {
-  "homepage": "Electro's Web Center: https://sites.google.com/view/electrosapps/electros-addons/minecraft-mods-forge OR For Mods 1.4.10+: CurseForge: https://www.curseforge.com/minecraft/mc-mods/electros-powercraft/files/all Modrinth: https://modrinth.com/mod/electros-powercraft/",
+  "homepage": "Electro's Web Center: https://sites.google.com/view/electrosapps/electros-addons/minecraft-mods-forge",
   "1.12.2": {
-    "1.0": ""
+    "0.3.7": "The Ice Update - Snapshot; ",
+    "0.3.1": "The Electric Update; ",
+    "0.2.11": "The Electric Update - Snapshot; "
   },
   "1.15.2": {
     "1.0": ""
   },
   "promos": {
-    "1.12.2-latest": "1.0",
-    "1.12.2-recommended": "1.0",
+    "1.12.2-latest": "0.3.7",
+    "1.12.2-recommended": "0.3.7",
     "1.15.2-latest": "1.0",
     "1.15.2-recommended": "1.0"
   }
